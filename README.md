@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sunita-001/leetcode/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sunita-001/leetcode/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sunita-001/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
