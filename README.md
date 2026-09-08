@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sunita-001/leetcode/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
+| [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
