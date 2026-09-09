@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 | [0504-base-7](https://github.com/Sunita-001/leetcode/tree/master/0504-base-7) |
 ## Two Pointers
 |  |
@@ -50,8 +51,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
+| [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
