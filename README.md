@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/Sunita-001/leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -70,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Sunita-001/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Sunita-001/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Sunita-001/leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
