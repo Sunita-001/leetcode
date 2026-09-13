@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sunita-001/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sunita-001/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Memoization
 |  |
 | ------- |
