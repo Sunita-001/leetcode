@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sunita-001/leetcode/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 | [0504-base-7](https://github.com/Sunita-001/leetcode/tree/master/0504-base-7) |
+| [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sunita-001/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
+| [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 ## Bitmask
 |  |
 | ------- |
@@ -83,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sunita-001/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
