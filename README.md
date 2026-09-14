@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sunita-001/leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Sunita-001/leetcode/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sunita-001/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sunita-001/leetcode/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Sunita-001/leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
