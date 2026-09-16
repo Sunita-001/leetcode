@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sunita-001/leetcode/tree/master/0217-contains-duplicate) |
 | [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sunita-001/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sunita-001/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sunita-001/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sunita-001/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Memoization
 |  |
