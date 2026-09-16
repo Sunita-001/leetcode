@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Sunita-001/leetcode/tree/master/0217-contains-duplicate) |
+| [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 | [0504-base-7](https://github.com/Sunita-001/leetcode/tree/master/0504-base-7) |
+| [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
 | [0836-rectangle-overlap](https://github.com/Sunita-001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 ## Two Pointers
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
+| [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sunita-001/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sunita-001/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
