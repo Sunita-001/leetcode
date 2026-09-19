@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Sunita-001/leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Sunita-001/leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sunita-001/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sunita-001/leetcode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sunita-001/leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Sunita-001/leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sunita-001/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Linked List
 |  |
