@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sunita-001/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sunita-001/leetcode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sunita-001/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sunita-001/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 ## String
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sunita-001/leetcode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sunita-001/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sunita-001/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sunita-001/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sunita-001/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -138,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sunita-001/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Sunita-001/leetcode/tree/master/0486-predict-the-winner) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sunita-001/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sunita-001/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sunita-001/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
