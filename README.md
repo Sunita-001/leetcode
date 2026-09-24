@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Sunita-001/leetcode/tree/master/0553-optimal-division) |
 | [0836-rectangle-overlap](https://github.com/Sunita-001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sunita-001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sunita-001/leetcode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sunita-001/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sunita-001/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sunita-001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Memoization
 |  |
 | ------- |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sunita-001/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sunita-001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sunita-001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
