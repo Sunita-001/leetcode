@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/Sunita-001/leetcode/tree/master/0401-binary-watch) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Sunita-001/leetcode/tree/master/0401-binary-watch) |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
 ## Game Theory
 |  |
