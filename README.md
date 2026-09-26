@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sunita-001/leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Sunita-001/leetcode/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/Sunita-001/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Sunita-001/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Sunita-001/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Sunita-001/leetcode/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sunita-001/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sunita-001/leetcode/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sunita-001/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/Sunita-001/leetcode/tree/master/0464-can-i-win) |
